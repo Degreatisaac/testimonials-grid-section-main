@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/testimonials-grid-section-main/images/testimonial-grid.PNG)
+![](/images/testimonial-grid.PNG)
 
 
 ### Links
